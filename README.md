@@ -66,7 +66,7 @@ If you use **NEIC1.0** and publish your work, we would be grateful if you could 
     - Import the .xlsx file prepared in step 5.
     - Results will be displayed, with an interaction probability value given in the format "Forced vs Interacting". 
 
-## Credits4
+## Credits
 
 A huge thank you to [MATLAB](https://www.mathworks.com) for their incredible software!
 

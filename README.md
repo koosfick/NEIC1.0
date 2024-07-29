@@ -6,7 +6,7 @@
 
 #### Using **NEIC1.0**? Remember to cite us:
 If you use **NEIC1.0** and publish your work, we would be grateful if you could cite our work using the following:
-- Cite original article by A. Fick, J.L.M. Fick, V. Swart, and N. van den Berg
+- Fick, A., Fick, J.L.M., Swart, V., & van den Berg, N. (2024). What NLR you recognizing? Predicted binding affinities- and energies may be used to identify novel NLR-effector interactions, _bioRxiv_ (doi: https://doi.org/10.1101/2024.07.26.605369)
 
 
 ## Table of Contents

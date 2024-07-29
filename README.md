@@ -28,7 +28,7 @@ If you use **NEIC1.0** and publish your work, we would be grateful if you could 
     - For installation on a platform using Windows as an operating system, download the NEIC_Installer_Windows.exe.zip file.
 2. **_Extract Contents:_** Unzip the downloaded file to reveal its contents.
      - **_NOTE:_** For macOS users, open a Terminal window and execute the following command where */path/to/downloaded/NEIC1.0/file* is the path to where the **NEIC1.0** **_extracted_** installer file has been saved to:
-         - ```xattr -d com.apple.quarantine path/to/downloaded/NEIC1.0/file```
+         - ```xattr -d com.apple.quarantine /path/to/downloaded/NEIC1.0/file```
 3. **_Run Installer:_** Execute the installer file as an administrator on your computer and follow the instructions.
 4. **_Automatic MATLAB Runtime:_** During installation, MATLAB Runtime will be automatically downloaded and installed—no separate MATLAB license is needed.
    - **_NOTE:_** It is not required nor recommended that you download MATLAB Runtime yourself, the **NEIC1.0** installation package will download and install the correct version of MATLAB Runtime. 

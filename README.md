@@ -57,7 +57,7 @@ If you use **NEIC1.0** and publish your work, we would be grateful if you could 
 
 5. **_Prepare **NEIC1.0** input Excel file:_**
     - Copy combined Binding energy- and affinity values (without header), and paste the values into the "Data_Transformation.xlsm" file provided. This file orders data, with the output being in the correct format.
-        - **_PLEASE NOTE:_** ONLY use the "Data_Transformation.xlsm" file provided on GitHub, and not the file associated with the pre-print on bioRxiv.
+        - **_NOTE:_** ONLY use the "Data_Transformation.xlsm" file provided on GitHub, and not the file associated with the pre-print on bioRxiv.
     - Transformed data will be in the second row (coloured in blue), which can be pasted (using the "Paste special > Values" option) into a new Excel spreadsheet. This allows for binding energy- and affinity values from multiple NLR-effector complexes to be analysed by **NEIC1.0**.
     - The first row in the new Excel spreadsheet should contain an alphabetic header, which can be found in the first row of the "Data_Transformation.xlsm" file.
     - Once the spreadsheet contains all data to be analysed, "Find and replace" all "#VALUE!" with "-1".
